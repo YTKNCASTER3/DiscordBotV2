@@ -1,0 +1,8 @@
+{
+	"prefix": "?",
+	"token": "โทเคนบอทในดิสคอร์ด",
+	"ownerid": "ไอดีของเจ้าของดิสคอร์ด",
+	"nodes": [
+		{ "host": "localhost", "port": 8000, "password": "changeyourpassword" }
+	]
+}
